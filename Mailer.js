@@ -73,5 +73,5 @@ Message: ${message}
 });
 
 // Démarrer le serveur
-const PORT = 3000;
+const PORT = 3400;
 app.listen(PORT, () => console.log(`API démarrée sur http://localhost:${PORT}`));
